@@ -1,1 +1,8 @@
 # This file contains recursive sources that require this package
+pyroute2
+pyroute2.ethtool
+pyroute2.ipdb
+pyroute2.ipset
+pyroute2.ndb
+pyroute2.nftables
+pyroute2.nslink
