@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.core
 Version  : 0.6.5
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/61/6b/e7ccc17b0a29600d0a5a13c78190fd5dcd3f06bb988a24a464b0564904b6/pyroute2.core-0.6.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/61/6b/e7ccc17b0a29600d0a5a13c78190fd5dcd3f06bb988a24a464b0564904b6/pyroute2.core-0.6.5.tar.gz
 Summary  : Python Netlink library: the core
